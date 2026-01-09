@@ -61,6 +61,6 @@ Esta característica facilita el desarrollo, la depuración y el uso del sistema
 
 Este repositorio acompaña la tesis de licenciatura titulada:
 
-**“IMPLEMENTAR ENTORNO DE CONTROL BASADO EN PYTHON PARA SU APLICACIÓN EN BRAZOS ROBÓTICOS, UTILIZANDO EL QARM COMO CASO DE ESTUDIO”**
+**“IMPLEMENTACIÓN ENTORNO DE CONTROL BASADO EN PYTHON PARA SU APLICACIÓN EN BRAZOS ROBÓTICOS, UTILIZANDO EL QARM COMO CASO DE ESTUDIO”**
 
 El código se presenta como material complementario para su análisis, replicación y reutilización en futuras prácticas académicas o proyectos de investigación.
