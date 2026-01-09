@@ -19,17 +19,30 @@ Contiene la implementación principal del sistema de control del QArm, incluyend
 
 Este módulo representa el núcleo del proyecto y actúa como base para los demás desarrollos.
 
+Videos:
+
+Programación punto a punto del QArm en Python (timelapse): https://www.youtube.com/watch?v=REl6ruUV72A
+Programación punto a punto del QArm en Python (tiempo real): https://www.youtube.com/watch?v=RGDOY5QbVYk
+
 ---
 
 ### 📁 INVERSE
 Incluye los scripts correspondientes al **control por cinemática inversa** del QArm.  
 Permite comandar el movimiento del efector final a partir de consignas cartesianas, funcionando como un prototipo experimental para el análisis del control cartesiano y sus limitaciones mecánicas.
 
+Video:
+
+Control por cinemática inversa del QArm en Python: https://www.youtube.com/watch?v=XAjjPOm35gA
+
 ---
 
 ### 📁 CAMERA
 Contiene la implementación del **control asistido por visión artificial**.  
 A partir de la información obtenida mediante una cámara, el sistema interpreta la posición y el estado de la mano del usuario para guiar el movimiento del efector final y accionar el gripper. Este desarrollo se presenta como un prototipo funcional orientado a la experimentación.
+
+Video:
+
+Control asistido por visión artificial del QArm en Python: https://www.youtube.com/watch?v=S1acEPbbCow
 
 ---
 
